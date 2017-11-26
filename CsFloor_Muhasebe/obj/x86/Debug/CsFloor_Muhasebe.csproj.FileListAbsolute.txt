@@ -1,0 +1,17 @@
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\bin\x86\Debug\CsFloor_Muhasebe.exe.config
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.csproj.ResolveComReference.cache
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\bin\x86\Debug\CsFloor_Muhasebe.exe
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\bin\x86\Debug\CsFloor_Muhasebe.pdb
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\bin\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\bin\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.Anasayfa.resources
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.Faturalisteleme.resources
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.Fatura_Kayıt.resources
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.Giriş.resources
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.Properties.Resources.resources
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.Teklif2.resources
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.csproj.GenerateResource.Cache
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.exe
+C:\Users\Akesi\OneDrive\Documents\Visual Studio 2012\Projects\CsFloor_Muhasebe\CsFloor_Muhasebe\obj\x86\Debug\CsFloor_Muhasebe.pdb
